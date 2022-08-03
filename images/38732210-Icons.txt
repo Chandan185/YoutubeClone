@@ -1,0 +1,26 @@
+Icons that are used in this design:
+
+<i class="fas fa-bars"></i>
+<i class="fab fa-youtube"></i>
+<i class="fas fa-video"></i>
+<i class="fas fa-th"></i>
+<i class="far fa-bell"></i>
+<i class="fas fa-user"></i>
+<i class="fas fa-home"></i></li>
+<i class="far fa-compass"></i></li>
+<i class="fas fa-play"></i></li>        
+<i class="far fa-play-circle"></i></li>
+<i class="fas fa-history"></i></li>
+<i class="fas fa-music"></i></li>
+<i class="fas fa-trophy"></i></li>
+<i class="fas fa-gamepad"></i></li>
+<i class="fas fa-newspaper"></i></li>     
+<i class="fas fa-cog"></i></li>
+<i class="far fa-flag"></i></li>
+<i class="far fa-question-circle"></i></li>
+<i class="fas fa-exclamation-circle"></i></li>
+<i class="far fa-thumbs-up"></i>
+<i class="far fa-thumbs-down"></i>
+<i class="fas fa-share"></i>
+<i class="far fa-plus-square"></i>
+<i class="fas fa-ellipsis-v"></i>

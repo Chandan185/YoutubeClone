@@ -1,0 +1,8 @@
+Colors that are used in this design:
+
+#fff
+#f0f0f0
+#d4d4d4
+#bbbbbb
+#6a6a6a
+
